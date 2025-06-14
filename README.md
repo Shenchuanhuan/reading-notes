@@ -1,5 +1,5 @@
-# reading-notes
-notes about books 
+# 阅读笔记（摘抄版）
 
-all notes in issues.
-one issue records one book.
+📖 魔鬼交易员 (reading...)
+
+⏰ 2025年6月14日 市场推手 (完结)
